@@ -2,7 +2,7 @@
 
 **Software:** SolveSpace 3.1
 
-My first try on designing 3D printed parts. Just wanted to test what 3D printed screw hole sizes can fit #6, M3, M2.5, and M2 screws. The first model's holes were slightly too small to fit M2.5 and M2 screws, so I just duplicated the model and made adjustments.
+My first try on designing 3D printed parts. Just wanted to test what are the smallest 3D printed screw hole sizes that can fit #6, M3, M2.5, and M2 screws. The first model's holes were slightly too small to fit M2.5 and M2 screws, so I just duplicated the model and made adjustments.
 
 Thanks to me being stupid and not understanding what the X,Y,Z axes were in real life, the models were drawn vertically instead of flat, so I had to rotate them when importing to a slicer.
 
